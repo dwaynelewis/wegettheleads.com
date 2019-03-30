@@ -247,11 +247,11 @@ body {
 }
 
 .block-style-1 {
-  background-color: #181818;
+  background-color: #485167;
   color: white;
 }
 .block-style-2 {
-  background: #d00000;
+  background: #6f9fd8;
   color: black;
 }
 .block-style-3 {
@@ -554,7 +554,7 @@ ul.social-list-display li {
 .footer {
   max-width: 1600px;
   width: 100%;
-  background: #d00000;
+  background: #9f9c99;
   padding: 40px 40px;
   color: #fff;
   display: grid;
